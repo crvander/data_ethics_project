@@ -11,8 +11,8 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Content
-    numbered: True  # Only applies to chapters in Part 1.
+  # - caption: Content
+    numbered: False  # Only applies to chapters in Part 1.
     chapters:
     - file: chp_1 
     - file: chp_2
