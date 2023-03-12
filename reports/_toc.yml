@@ -1,9 +1,22 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
+# format: jb-book
+# root: intro
+# chapters:
+# - file: chp_1
+# - file: chp_2
+# - file: chp_3
+
 format: jb-book
 root: intro
-chapters:
-- file: chp_1
-- file: chp_2
-- file: chp_3
+parts:
+  - caption: Name of Numbered Part 1
+    numbered: True  # Only applies to chapters in Part 1.
+    chapters:
+    - file: chp_1 
+    - file: chp_2
+  - caption: Name of Not-numbered Part 2
+    chapters:
+    - file: chp_3
+    - file: chp_4
