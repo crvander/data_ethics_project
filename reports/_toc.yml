@@ -11,12 +11,16 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Name of Numbered Part 1
+  - caption: Content
     numbered: True  # Only applies to chapters in Part 1.
     chapters:
     - file: chp_1 
     - file: chp_2
-  - caption: Name of Not-numbered Part 2
-    chapters:
     - file: chp_3
     - file: chp_4
+    - file: chp_5
+    - file: chp_6
+    - file: chp_7 
+    - file: chp_8
+    - file: chp_9
+    # - file: chp_10
