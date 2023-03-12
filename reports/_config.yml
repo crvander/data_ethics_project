@@ -1,10 +1,5 @@
-# Learn more at https://jupyterbook.org/customize/config.html
-
-#=====================================
 # Book settings
-title: Data Ethics Project  # The title of the book. Will be placed in the left navbar.
-author: Carlos van der Ley
-copyright: "2023"  # Copyright year to be placed in the footer
+# Learn more at https://jupyterbook.org/customize/config.html
 
 # for html
 title: Data Ethics Project
@@ -32,7 +27,7 @@ latex:
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
-  - ../references/references.bib
+  - references/references.bib
 
 # Information about where the book exists on the web
 repository:
