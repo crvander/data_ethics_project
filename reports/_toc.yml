@@ -14,7 +14,7 @@ parts:
   - caption: Data Ethics Project '23
     numbered: false  # Only applies to chapters in Part 1.
     chapters:
-    - file: chp_1 
+    # - file: chp_1 
     - file: chp_2
       sections:
       - file: chp_3
