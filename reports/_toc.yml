@@ -11,7 +11,7 @@
 format: jb-book
 root: 
   - caption: Test
-    - file: intro
+      intro
 parts:
   - caption: Data Ethics Project '23
     numbered: false  # Only applies to chapters in Part 1.
