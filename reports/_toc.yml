@@ -9,9 +9,11 @@
 # - file: chp_3
 
 format: jb-book
-root: intro
+root: 
+  - caption: Test
+    - file: intro
 parts:
-  - caption: `Data Ethics Project '23<br>Carlos Ricco van der Ley`
+  - caption: Data Ethics Project '23
     numbered: false  # Only applies to chapters in Part 1.
     chapters:
     # - file: chp_1 
