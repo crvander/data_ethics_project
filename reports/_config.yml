@@ -3,6 +3,8 @@
 
 # for html
 title: Data Ethics Project
+author: The Jupyter Book community  # The author of the book
+copyright: "2023"  # Copyright year to be placed in the footer
 logo: figures/ucsd_logo.png
 
 # for pdf/latex
