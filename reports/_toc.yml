@@ -18,6 +18,7 @@ parts:
     chapters:
     # - file: chp_1 
     - file: chp_2
+      title: ASDF Example
       sections:
       - file: chp_3
       - file: chp_4
