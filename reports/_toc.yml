@@ -15,8 +15,8 @@ parts:
     numbered: false  # Only applies to chapters in Part 1.
     chapters:
     # - file: chp_1 
-    - file: intro
-      title: ASDF Example
+    - file: chp_1
+      title: The Goal
       sections:
       - file: chp_3
       - file: chp_4
