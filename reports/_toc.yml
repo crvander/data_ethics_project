@@ -9,9 +9,7 @@
 # - file: chp_3
 
 format: jb-book
-root: 
-  - caption: Test
-      intro
+root: intro
 parts:
   - caption: Data Ethics Project '23
     numbered: false  # Only applies to chapters in Part 1.
