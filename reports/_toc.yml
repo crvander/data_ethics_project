@@ -11,7 +11,7 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Content
+  - caption: Data Science Capstone '23
     numbered: false  # Only applies to chapters in Part 1.
     chapters:
     - file: chp_1 
