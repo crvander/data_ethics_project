@@ -3,14 +3,14 @@
 
 # for html
 title: Data Ethics Project
-logo: figures/logo_png.png
+logo: figures/ucsd_logo.png'
 
 # for pdf/latex
 project: data_ethics_project
 author: Carlos van der Ley
 sphinx:
   config:
-    latex_logo: 'figures/logo_png.png'
+    latex_logo: 'figures/ucsd_logo.png'
   # extra_extensions:
     # - sphinx_inline_tabs
 
