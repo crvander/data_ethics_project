@@ -10,7 +10,6 @@
 
 format: jb-book
 root: intro
-  title: ASDF Example
 parts:
   - caption: Data Ethics Project '23
     numbered: false  # Only applies to chapters in Part 1.
